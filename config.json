@@ -1,0 +1,11 @@
+{
+    "image_path": "superbowl.png",
+    "image_start_coords": [1631, 588],
+    "workers": {
+        "<your username>": {
+            "password": "<your password>",
+            "start_coords": [0, 0],
+            "stop_coords": [2, 10]
+        }
+    }
+}
